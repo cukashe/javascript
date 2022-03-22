@@ -44,7 +44,8 @@ let is_auth=false;
  * Declare relevant variables according to the following scenario
  * john juma of age 45, is a new student at ist doing a software development course.Their high score 89.87 and his nickname is johnny
  */
-var name="juma";
+var name="jon";
+let lastname="juma"
 var age="45";
 var course="Sftware Development";
 let score="89.87";
