@@ -50,3 +50,6 @@ var age="45";
 var course="Sftware Development";
 let score="89.87";
 let nickname="johnny"
+
+
+console.log (username);
