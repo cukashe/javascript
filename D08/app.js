@@ -11,9 +11,10 @@ showmessage();
 
 //scope - local and global variables
 
-let age = 78;
+let age = 78; // global variable
 function displayAge() {
-    let age = 67;
-    alert(age);
+    let age = 67;// local variable
+    alert(age);//67
 }
+alert(age);//78
 displayAge();
