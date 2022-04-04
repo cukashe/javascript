@@ -91,3 +91,6 @@ else{
     console.log("Not Allowed")
 }
 age > 18 ? console.log("Allowed") : console.log ("Not Allowed");
+// rewrite th switch statement to use tenary operators
+
+role == "admin" ? consolele.log("101") :console.log("301") ?console.log("406") :console.log("109")
