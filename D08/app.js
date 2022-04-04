@@ -18,3 +18,26 @@ function displayAge() {
 }
 alert(age);//78
 displayAge();
+
+// parameters and arguments
+// you can have default value
+function sayHi(name) {
+    alert("${name} says Hello")
+}
+sayHi("");
+sayHi("jack");
+
+//write a function greetings that takes in two inputs [ from , text] then displays an alert showing "text from"
+// greetings ("ann" ,"hello")
+//=> hello ann
+function Greetings(from , text) {
+    alert ("${text} ${from}");
+}
+Greetings ("ann" , "hello")
+
+// return statement
+function add (a, b){
+    return a + b
+}
+
+add (4,5)
