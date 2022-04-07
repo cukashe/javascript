@@ -83,7 +83,7 @@ console.log(emails)
 //sort
 
 //reduce
-
+//find the sum of salaries amount using sum forloop
 let salaries = [
     {name: "john", amount:700},
     {name: "pete", amount:450},

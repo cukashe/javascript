@@ -84,19 +84,3 @@ console.log(salaries[name])//to  show the figures
 }
 console.log(total)
 
-
-
-
-function multiplyNumerical(){
-    
-    let measurment ={
-        height: 400,
-        width: 500,}
-    for(let measrment in height ){
-        if(measurment()[multiplyNumerical]== ' 500'){
-            height[multiplyNumerical]*=2
-            
-        }
-    }
-}
-multiplyNumerical()
