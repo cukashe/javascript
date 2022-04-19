@@ -87,7 +87,7 @@ let users = [userOne, userTwo]
 
 admin.deleteUser(userOne)
 console.log(users)
-/
+
 
 
 
